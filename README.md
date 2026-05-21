@@ -19,6 +19,10 @@ A modern, full-stack application hub that seamlessly integrates a powerful Djang
 
 ---
 
+---
+
+---
+
 ## Author & Contact
 
 - **GitHub:** [@rouviour-german](https://github.com/rouviour-german)
